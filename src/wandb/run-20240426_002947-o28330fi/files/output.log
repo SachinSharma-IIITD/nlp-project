@@ -1,0 +1,9 @@
+[nltk_data] Downloading package wordnet to /home/nsl/nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+[nltk_data] Downloading package punkt to /home/nsl/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package omw-1.4 to /home/nsl/nltk_data...
+[nltk_data]   Package omw-1.4 is already up-to-date!
+Accuracy: 0.9438877755511023
+Precision: 0.9615942397799855
+Recall: 0.9438877755511023

@@ -1,0 +1,101 @@
+{
+    "os": "Linux-6.7.7-200.fc39.x86_64-x86_64-with-glibc2.38",
+    "python": "3.10.13",
+    "heartbeatAt": "2024-04-22T19:08:40.015000",
+    "startedAt": "2024-04-22T19:08:38.832520",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "fedora",
+    "username": "nsl",
+    "executable": "/home/nsl/gpu_env_pip/bin/python3.10",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2658.4190000000003,
+        "min": 1550.0,
+        "max": 3200.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2715.786,
+            "min": 1550.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1352.446,
+            "min": 1550.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3290.847,
+            "min": 1550.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3399.954,
+            "min": 1550.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2723.117,
+            "min": 1550.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2798.088,
+            "min": 1550.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1624.917,
+            "min": 1550.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2715.437,
+            "min": 1550.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3265.166,
+            "min": 1550.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2799.556,
+            "min": 1550.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2799.798,
+            "min": 1550.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1356.191,
+            "min": 1550.0,
+            "max": 3200.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 929.92578125,
+            "used": 155.72081756591797
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3080 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080 Ti",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 62.7138671875
+    }
+}
